@@ -112691,7 +112691,6 @@ domain:gamepp.com
 domain:gangwan.com
 globalsign.com
 domain:globrand.com
-domain:gmw.com
 domain:gmz88.com
 domain:gneec7.com
 domain:golinkapi.com
@@ -112794,7 +112793,7 @@ domain:maoyuncloud.com
 domain:mechina.org
 domain:media.paperclipclub.net
 domain:meika360.com
-domain:meishij.net
+meishitx.com
 domain:meloong.com
 domain:mfcteda.com
 domain:mfuns.net
@@ -112953,7 +112952,6 @@ domain:xiazaiba.com
 domain:xingtan001.com
 domain:xinlishumeng.com
 domain:xinmeng.info
-domain:xinshipu.com
 domain:xitong8.com
 domain:xiyouyingyu.com
 domain:xpgod.com
@@ -114271,6 +114269,7 @@ domain:mai.tn
 domain:maoyun.tv
 domain:material.istreamsche.com
 domain:me.com
+domain:meishij.net
 domain:metatrader4.com
 domain:metatrader5.com
 domain:mmarket6.com
@@ -114393,6 +114392,7 @@ domain:worldscientific.com
 domain:xhostfire.com
 domain:xiami.fm
 domain:xiaomiflash.com
+domain:xinshipu.com
 domain:xueyuanjun.com
 domain:yach.me
 domain:yo9.com
@@ -114526,6 +114526,7 @@ domain:fjgkedu.com
 domain:fjsjkyy.com
 domain:fjwxj.com
 domain:fsylr.com
+domain:gmw.com
 domain:gxhjsz.com
 domain:gxsanchuan.com
 domain:gxyhmy.net
