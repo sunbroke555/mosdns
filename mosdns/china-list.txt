@@ -112483,7 +112483,6 @@ domain:keboyunxiao.com
 domain:kiyuu.club
 domain:kkzj.com
 kouclo.com
-domain:kscord.com
 domain:kuaihou.com
 domain:kugouipv6.com
 domain:lancdn.com
@@ -114166,6 +114165,7 @@ domain:ctyuncdn.com
 domain:iwuyou189.com
 domain:szny189.com
 domain:wuyou189.com
+domain:kscord.com
 domain:chinaunicom.com.hk
 domain:chinaunicomglobal.com
 domain:mychinaunicom.com
