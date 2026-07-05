@@ -111712,13 +111712,18 @@ domain:zzzzaaaa.com
 domain:zzzzzz.me
 domain:alibaba
 keyword:alipay
+anquan
 keyword:baidu
 domain:citic
 domain:icbc
+shouji
+sina
 domain:sohu
 keyword:taobao
 domain:tmall
 domain:unicom
+keyword:weibo
+xihuan
 domain:xn--1qqw23a
 domain:xn--3bst00m
 domain:xn--3ds443g
@@ -111728,6 +111733,7 @@ domain:xn--6frz82g
 domain:xn--6qq986b3xl
 domain:xn--8y0a063a
 domain:xn--9et52u
+xn--9krt00a
 domain:xn--czr694b
 domain:xn--czrs0t
 domain:xn--czru2d
@@ -111748,6 +111754,7 @@ domain:xn--vhquv
 domain:xn--vuq861b
 domain:xn--xhq521b
 domain:xn--zfr164b
+yun
 full:a1.mzstatic.com
 full:a2.mzstatic.com
 full:a3.mzstatic.com
@@ -112636,8 +112643,10 @@ full:edge.geo.kaspersky.com
 full:emoi-cncdn.bing.com
 full:end-api.shallow.ink
 full:end.shallow.ink
+full:entitlements-edge.itunes.apple.com
 full:fcs.dell.com
 full:fides-pol.apple.com
+full:fpinit.itunes.apple.com
 full:fta.dell.com
 full:ftaapj.dell.com
 full:ftaemea.dell.com
@@ -114938,7 +114947,6 @@ keyword:officecdn
 keyword:bilibili
 keyword:hnagroup
 keyword:stripe
-keyword:weibo
 keyword:qiyi
 PROCESS-NAME,com.taobao.taobao
 PROCESS-NAME,com.bilibili.app.blue
