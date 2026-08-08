@@ -111423,6 +111423,7 @@ domain:leturich.org
 domain:leyuansu.com
 domain:liblib.tv
 domain:lieyunwang.com
+lifexue.com
 domain:lightmake.site
 domain:lightonus.com
 domain:listenai.com
@@ -111434,7 +111435,7 @@ domain:lvcampaign.com
 domain:lvmama.com
 domain:lxjiasu.com
 domain:lzpipi.com
-made-in-china.com
+domain:made-in-china.com
 domain:mahjongai.net
 domain:mahjongcup.com
 domain:mahjongcup.net
@@ -111451,7 +111452,7 @@ domain:meloong.com
 domain:mfcteda.com
 domain:mfuns.net
 domain:miaobolive.com
-micstatic.com
+domain:micstatic.com
 domain:micun.com
 domain:mijisou.com
 domain:mndqlib.net
@@ -111494,7 +111495,7 @@ domain:ourl.co
 domain:perfectlingo.com
 domain:piaoliang.com
 domain:platform.dell.com
-poweremarket.com
+domain:poweremarket.com
 domain:proximabeta.com
 domain:pwcinema.com
 domain:qc188.com
@@ -112839,7 +112840,6 @@ domain:cdnhwcick110.com
 domain:cdnhwczks109.com
 domain:cheng.xin
 domain:chinamobileltd.com
-domain:chinatelecom-h.com
 domain:chinaunicom.com.hk
 domain:chinaunicomglobal.com
 domain:chua.pro
@@ -112861,18 +112861,13 @@ domain:cn88.net
 domain:cnbeta.com
 domain:cncbinternational.com
 domain:com-hs-hkdy.com
-domain:ctexcel.ca
-domain:ctexcel.fr
-domain:ctexcel.us
 domain:ctrip.co.th
 domain:ctrip.com.hk
 domain:ctripteam.com
 domain:czybjz.com
-domain:dandanplay.com
 domain:dandanzan.com
 domain:dct-cloud.com
-domain:didiaustralia.blog
-domain:didimobility.co.jp
+domain:deepin.io
 domain:dler.cloud
 domain:ebscohost.com
 domain:ecitic.net
@@ -112978,7 +112973,6 @@ domain:lingshoujia.com
 domain:localizecdn.com
 domain:loli.net
 domain:lucifr.com
-domain:lwurl.to
 domain:lxjapp.com
 domain:m-team.cc
 domain:madsrevolution.net
@@ -113052,7 +113046,6 @@ domain:scomper.me
 domain:scopus.com
 domain:seafile.com
 domain:siam.org
-domain:sinajs.com
 domain:snapdrop.net
 domain:snwx.com
 domain:sony.com
@@ -113158,8 +113151,12 @@ domain:360sides.com
 domain:360sides.net
 domain:4008100800.com
 domain:8009900800.com
+domain:chinatelecom-h.com
 domain:ctcdn.org
 domain:ctdns.org
+domain:ctexcel.ca
+domain:ctexcel.fr
+domain:ctexcel.us
 domain:ctmcdn.com
 domain:ctmcdn.net
 domain:ctycdn.org
@@ -113170,14 +113167,17 @@ domain:wuyou189.com
 domain:wo-link.tech
 domain:baotoo.com
 domain:maikr.com
+domain:dandanplay.com
 domain:dandanplayer.com
-domain:deepin.io
+domain:didiaustralia.blog
+domain:didimobility.co.jp
 domain:juyanwenjuan.com
 domain:pgyer.cc
 domain:pgyer.im
 domain:qcers.com
 domain:qcers.net
 domain:testin.im
+domain:lwurl.to
 domain:dmaow.com
 domain:dmvideo.mobi
 domain:dmvideo.net
@@ -113188,7 +113188,6 @@ domain:domobnetwork.com
 domain:duomeng.net
 domain:duomeng.org
 domain:moxz.net
-domain:doyonoc.com
 domain:haitunzhibo.com
 domain:xingxuanwaimai.com
 domain:wisestcloud.com
@@ -113824,8 +113823,8 @@ domain:njdiip.com
 domain:ntes53.net
 domain:ntescdn.com
 domain:playdisorder.com
-domain:yunxinsvip.com
 domain:yun-app.net
+domain:yunxinsvip.com
 domain:ibreeno.com
 domain:realme.net
 domain:realmeservice.com
@@ -113845,6 +113844,7 @@ domain:xiaoshuo3-sm.com
 domain:xiaoshuo4-sm.com
 domain:xiaoshuo5-sm.com
 domain:huoxing.com
+domain:sinajs.com
 domain:sinanode.com
 domain:sinas3.net
 domain:talldns.com
@@ -113885,6 +113885,7 @@ domain:dh5a.com
 domain:dnse8.com
 domain:dnse8.net
 domain:dnsxv2.com
+domain:doyonoc.com
 domain:edgeonedl1.com
 domain:edgeonedl1.net
 domain:edgeonedy1.net
