@@ -111091,6 +111091,7 @@ domain:05sun.com
 domain:123278.com
 domain:123juzi.com
 123juzi.net
+1958xy.com
 domain:1nongjing.com
 domain:2265.com
 domain:315che.com
@@ -111099,6 +111100,7 @@ domain:360aiyi.com
 domain:360chou.com
 domain:360huzhubao.com
 domain:365azw.com
+36linkr.com
 domain:3h3.com
 domain:40407.com
 domain:4thworkshop.com
@@ -111158,7 +111160,6 @@ domain:azchcdnk.com
 domain:b3log.org
 domain:baicaf.com
 baidubcr.com
-domain:bambulab.com
 domain:bamenzhushou.com
 domain:banxiaoer.com
 domain:banxiaoer.net
@@ -111171,6 +111172,7 @@ domain:bestopview.com
 domain:bgwxc.com
 domain:biancheng.net
 domain:bibaodao.com
+bkzhibo.com
 domain:blurdev.com
 domain:brighticecream.com
 domain:btghotels.com
@@ -111383,6 +111385,7 @@ domain:janrainservices.com
 domain:jbcz.tv
 domain:jchat.io
 domain:jfcoop.com
+jgtab.link
 domain:jianbihua.com
 domain:jiangningwater.com
 domain:jianzhi8.com
@@ -111394,8 +111397,10 @@ domain:jinglingbiaozhu.com
 domain:jinjiangonline.net
 domain:jinse.com
 domain:jiqizhixin.com
+jkzlrs.com
 domain:jpmorganchina.com
 domain:juhuiwan.net
+juwinmedia.com
 domain:kaijiacloud.com
 domain:kameng98.com
 domain:keboyunxiao.com
@@ -111556,6 +111561,7 @@ domain:starbaby.com
 domain:steam302.xyz
 domain:sunrtb.com
 domain:suufun.com
+sxyygh.com
 domain:szzfgjj.com
 domain:t00ls.cc
 domain:t00ls.net
@@ -111644,6 +111650,7 @@ domain:xcz.im
 domain:xdqtech.com
 domain:xdtool.com
 domain:xfdown.com
+xhsdzd.com
 domain:xiaoka.tv
 domain:xiaoluyouxuan.com
 domain:xiaoluzhidian.com
@@ -111675,7 +111682,6 @@ domain:yichengwlkj.com
 domain:yizhibo.com
 domain:yjbys.com
 domain:youboy.com
-domain:youlian.fun
 domain:youxigt.com
 domain:yunba.io
 domain:yunfancdn.com
@@ -113118,6 +113124,7 @@ domain:xinshipu.com
 domain:xueyuanjun.com
 domain:yach.me
 domain:yo9.com
+domain:youlian.fun
 domain:yowhale.com
 domain:zhangzishi.cc
 domain:zhuihd.com
@@ -113169,6 +113176,7 @@ domain:ctyuncdn.com
 domain:iwuyou189.com
 domain:szny189.com
 domain:wuyou189.com
+domain:bambulab.com
 domain:wo-link.tech
 domain:baotoo.com
 domain:maikr.com
