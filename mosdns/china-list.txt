@@ -111507,6 +111507,7 @@ domain:qc188.com
 domain:qd8.com
 domain:qh24.com
 domain:qiangbus.com
+qianwenai.com
 domain:qingtingai.net
 domain:qjmotorlink.com
 domain:qmai.com
