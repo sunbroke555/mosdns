@@ -30073,7 +30073,7 @@ domain:driver114.com
 domain:driverchina.com
 domain:driverdevelop.com
 domain:drivergenius.com
-drivers.amd.com
+full:drivers.amd.com
 domain:driverzeng.com
 domain:driverzj.com
 domain:drivethelife.com
@@ -111223,6 +111223,7 @@ domain:shopeesz.com
 domain:sifou.com
 domain:simei8.com
 domain:sinopec-usa.com
+sjfls6.com
 domain:sjwyx.com
 domain:skypixel.com
 domain:softwhy.com
