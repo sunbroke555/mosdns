@@ -110577,6 +110577,8 @@ domain:steam302.xyz
 domain:sunrtb.com
 domain:suufun.com
 domain:sxyygh.com
+szu.app
+szu.moe
 domain:szzfgjj.com
 domain:t00ls.cc
 domain:t00ls.net
